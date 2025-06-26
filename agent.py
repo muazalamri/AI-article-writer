@@ -4,7 +4,7 @@ import asyncio
 import requests
 import logging
 # Configure the API key for Google Generative AI
-api_key="AIzaSyB9RCGX-GowTM9L5tOjjDCk9M5JWFbzziM"
+api_key="API key"
 
 # Configure logging
 logging.basicConfig(
